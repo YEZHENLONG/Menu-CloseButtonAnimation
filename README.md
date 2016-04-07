@@ -1,5 +1,5 @@
 # Menu-CloseButtonAnimation
-Exmple:
+# Example:
 
 ![](https://github.com/YEZHENLONG/Menu-CloseButtonAnimation/blob/master/origin%20animation.gif)
 
